@@ -39,6 +39,20 @@ leverage
     - Users use existing reasons for speculation/ financial instrumentation in places
 they previously could not.
     - Cold storage available via node or app interface(hot/cold)
+ 
+## How far along are you?
+Pitch theorized and hashed out, continuing to polish demo & website.
+
+## How long have each of you been working on this? How much of that has been full-time? Please explain.
+1 months. 30-40 hours a week. (For both founders)
+
+## What tech stack are you using, or planning to use, to build this product?
+
+*************
+
+## If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
+
+Probably best if you answer here. 
 
 ## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
@@ -57,4 +71,22 @@ Q2) People flock to freedom, efficiency over time, financial flexibility
 
 Q1) tag volume, subs, ads, non-fair start ;)
 Q2) Forex markets are in the trillions dollars w/ capped reasons for their existence
+
+## If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
+
+Emerging market etfs —  a collection of growth based on present changing toward liberal policies // clearing of gov bureaucracy to improve revenue translation into profit(ability to re-coup investment fast-tracked)
+
+ETF addresses companies in emerging market based on criteria:
+- Can the company return profits to shareholders through the taxation system 
+- Is the company incentivized to return profits to shareholders 
+- Time view of necessary future financing
+- Political stability, past, present, future
+
+Could be money managers composing of the money managers (exposure to other ETFS) - fund of funds 
+Vs. 
+Fund of individual 
+Fund of country individuals 
+Fund of specialization across countries 
+
+Internal ETF — no changing to capital structure. Absolutely no raising of more shares, finite and large issuance. TLDR: would not inflate or mess with outstanding shares of ETF even if trading at premiums or discounts.
 
