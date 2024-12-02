@@ -1,23 +1,41 @@
 # YC Application Questions 
 
+<!-- I separated answers into Davis and Christopher to make it simple to compare. 
+I will have edit when there was an obvious typo so something, but not when it makes a substantial change -->
+
 ## How long have the founders known one another and how did you meet? Have any of the founders not met in person?
 
-5 months. Met at the annual Mises Insitute University program for Austriann Economics.  Have met all founders. 
+**Davis:** 5 months. Met at the annual Mises Institute University program for Austrian Economics.  Have met all founders. 
+
+**Christopher:** We met 5 months ago at a the Mises Institute for Austrian Economics, summer program "Mises University". We had separate projects we were working on at the time, we kept in touch bc we really wanted to work on a project together.
 
 ## Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.
 
-Chris writes the code, including blockchain aspects(smart contracts, coin mintinng), collaborate intermittently with non-founding friends for technical consultation.
+**Davis:** Chris writes the code, including blockchain aspects(smart contracts, coin minting), collaborate intermittently with non-founding friends for technical consultation.
 
-## Are you looking for a cofounder?
+<!-- The part about the non-founder will not help us. -->
 
-No, open to collaborate as needed though! 
+**Christopher:** Christopher is the technical founder who will right the code on and off blockchain parts of the company.
+
+## Are you looking for a co-founder?
+
+**Davis:** No, open to collaborate as needed though!
+
+**Christopher:** We are not looking for co-founders, but we are open if we feel someone could substantially add to our team.
 
 ## Describe what your company does in 50 characters or less.
 
-Breaches commodities future constraints and unifies markets under a single crpyto.
+**Davis:** Breaches commodities future constraints and unifies markets under a single crypto.
+
+<!-- Too long, there is a hard cap on 50 characters. No clear enough. -->
+
+**Christopher:** Smart-contract crypto for trading, finance, and retail
+
+<!-- Tbh I just chatGPTed this. Im not married to this answer, but I don't like yours -->
 
 ## What is your company going to make? Please describe your product and what does it do.
 
+**Davis:**
 Company is going to make an application. The application consists of a platform, accessible
 through a website/ or app. The platform has the UI of an investing, trading platform. The website
 interfaces with a blockchain, a crypto currency coin. The website allows users to access the
@@ -41,21 +59,27 @@ they previously could not.
     - Cold storage available via node or app interface(hot/cold)
  
 ## How far along are you?
-Pitch theorized and hashed out, continuing to polish demo & website.
+
+**Davis:** Pitch theorized and hashed out, continuing to polish demo & website.
 
 ## How long have each of you been working on this? How much of that has been full-time? Please explain.
-1 months. 30-40 hours a week. (For both founders)
+
+**Davis:** 1 months. 30-40 hours a week. (For both founders)
 
 ## What tech stack are you using, or planning to use, to build this product?
 
-*************
+**Christopher:** HTMX, Templ, Go. We are currently testing with a vanilla fork of Ethereum, but we expect to use a heavily customized fork of one of 3 or 4 other options. 
 
 ## If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
 
-Probably best if you answer here. 
+<!--Probably best if you answer here. -->
+
+**Christopher:**
 
 ## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
+
+**Davis:**
 Q1) To capitalize on inefficiencies of dollar
 Q2) team consists of technical and soft skills in financial markets, currencies and
 software/crypto development
@@ -64,16 +88,19 @@ speculation/instrumentation + escape from dollar + hide from currency comp
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
+**Davis:**
 Q1) The US government, better money(s)
 Q2) People flock to freedom, efficiency over time, financial flexibility
 
 ## How do or will you make money? How much could you make?
 
+**Davis:**
 Q1) tag volume, subs, ads, non-fair start ;)
 Q2) Forex markets are in the trillions dollars w/ capped reasons for their existence
 
 ## If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
 
+**Davis:**
 Emerging market etfs —  a collection of growth based on present changing toward liberal policies // clearing of gov bureaucracy to improve revenue translation into profit(ability to re-coup investment fast-tracked)
 
 ETF addresses companies in emerging market based on criteria:
