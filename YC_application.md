@@ -1,5 +1,21 @@
 # YC Application Questions 
 
+## How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+
+5 months. Met at the annual Mises Insitute University program for Austriann Economics.  Have met all founders. 
+
+## Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.
+
+Chris writes the code, including blockchain aspects(smart contracts, coin mintinng), collaborate intermittently with non-founding friends for technical consultation.
+
+## Are you looking for a cofounder?
+
+No, open to collaborate as needed though! 
+
+## Describe what your company does in 50 characters or less.
+
+Breaches commodities future constraints and unifies markets under a single crpyto.
+
 ## What is your company going to make? Please describe your product and what does it do.
 
 Company is going to make an application. The application consists of a platform, accessible
