@@ -21,7 +21,6 @@ Smart-contract crypto for trading, finance, and retail
 
 ## What is your company going to make? Please describe your product and what does it do.
 
-**Davis:**
 Company is going to make an application. The application consists of a platform, accessible
 through a website/ or app. The platform has the UI of an investing, trading platform. The website
 interfaces with a blockchain, a crypto currency. The website allows users to access the
@@ -35,7 +34,10 @@ speculate on the futures market of commodities, goods that are sold w/ prices.
 for a perpetual futures contract. A perpetual futures contract of any two
 commodities, namely those that haven’t been paired previously, or prohibited to
 be paired.
-        - Users acquire coins through mining, airdrop(instant egalitarian issuance),
+        - Perpetual swaps use a funding rate to pay out P&L based on relative price movmements between paired commodities(lumber,silver -- monero/oil). 
+We choose perpetual swpas because it is a future contract that is not exercisable, it doesn't require physical future transfer of goods, but allows for exposure to price action.
+It is like continuing to roll over an options contract indefintelyuntil you close the position.
+    - Users acquire coins through mining, airdrop(instant egalitarian issuance),
 atomic swaps w/ other currencies, or purchasing it w/ dollars, other
 cyrptos
         -  Users can stake their coins that pay yields – driven by demand for
@@ -46,7 +48,7 @@ they previously could not.
  
 ## How far along are you?
 
-**Davis:** Pitch theorized and hashed out, continuing to polish demo & website.
+Pitch theorized and hashed out, continuing to polish demo & website.
 
 ## How long have each of you been working on this? How much of that has been full-time? Please explain.
 
@@ -58,35 +60,28 @@ they previously could not.
 
 ## If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
 
-<!--Probably best if you answer here. -->
-
-**Christopher:**
+Christopher applied November 12th under company name: Von, description "Use Monero-Gold options to make a stablcoin"
 
 ## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
-
-**Davis:**
 Q1) To capitalize on inefficiencies of dollar
-Q2) team consists of technical and soft skills in financial markets, currencies and
+Q2) Team consists of technical and soft skills in financial markets, currencies and
 software/crypto development
 Q3) Null hypothesis: People don’t care to expand quality & restrictions of existing financial
 speculation/instrumentation + escape from dollar + hide from currency comp
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
-**Davis:**
 Q1) Perpetual swaps denominated in dollars, more-expensive futures trading, 
 Q2) People flock to freedom, efficiency over time, financial flexibility
 
 ## How do or will you make money? How much could you make?
 
-**Davis:**
 Q1) tag gross volume, subscription tiers on website, site & app advertisements + sponsorships, founders start with initial sum of coins(5-10%)
 Q2) Forex markets are in the trillions of dollars daily volume and many trades endure broker fees, so to emulate revenue method isn't out of question. 
 
 ## If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
 
-**Davis:**
 Emerging market etfs —  a collection of growth-based stocks, whose respective countries are leaning into liberal market policies, such as decreasing capital gains taxes. Market movements that improve revenue translation into net profit and capital return to investors(ability to re-coup investment fast-tracked)
 
 ETF addresses companies in emerging market based on criteria:
@@ -95,11 +90,9 @@ ETF addresses companies in emerging market based on criteria:
 - Time view of necessary future financing(optimally companies that aren't diluting equity through reckless share issuance)
 - Political stability, past, present, future (in specific relation to taxation)
 
-Could be money managers composing of the money managers (exposure to other ETFS) - fund of funds 
-Vs. 
-Fund of individual(companies across globe)
-Fund of country individuals(country specific index)
-Fund of specialization across countries(say lumber industries globally)
+- Fund of individual(companies across globe)
+- Fund of country individuals(country specific index)
+- Fund of specialization across countries(say lumber industries globally)
 
 Internal ETF — no changing to capital structure. Absolutely no use of authorized participants as market makers, hence no ETF share creation and redemption basket tactics. 
 TLDR: would not inflate or deflate outstanding shares of ETF even if trading at premiums or discounts.
