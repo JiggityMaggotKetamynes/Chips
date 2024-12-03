@@ -5,44 +5,30 @@ I will have edit when there was an obvious typo so something, but not when it ma
 
 ## How long have the founders known one another and how did you meet? Have any of the founders not met in person?
 
-**Davis:** 5 months. Met at the annual Mises Institute University program for Austrian Economics.  Have met all founders. 
-
-**Christopher:** We met 5 months ago at a the Mises Institute for Austrian Economics, summer program "Mises University". We had separate projects we were working on at the time, we kept in touch bc we really wanted to work on a project together.
+We met 5 months ago at a the Mises Institute for Austrian Economics, summer program "Mises University". We had separate projects we were working on at the time, we kept in touch bc we really wanted to work on a project together.
 
 ## Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.
 
-**Davis:** Chris writes the code, including blockchain aspects(smart contracts, coin minting), collaborate intermittently with non-founding friends for technical consultation.
-
-<!-- The part about the non-founder will not help us. -->
-
-**Christopher:** Christopher is the technical founder who will right the code on and off blockchain for the company.
+Christopher is the technical founder who will right the code on and off blockchain for the company.
 
 ## Are you looking for a co-founder?
 
-**Davis:** No, open to collaborate as needed though!
-
-**Christopher:** We are not looking for co-founders, but we are open if we feel someone could substantially add to our team.
+We are not looking for co-founders, but we are open if we feel someone could substantially add to our team.
 
 ## Describe what your company does in 50 characters or less.
 
-**Davis:** Breaches commodities future constraints and unifies markets under a single crypto.
-
-<!-- Too long, there is a hard cap on 50 characters. No clear enough. -->
-
-**Christopher:** Smart-contract crypto for trading, finance, and retail
-
-<!-- Tbh I just chatGPTed this. Im not married to this answer, but I don't like yours -->
+Smart-contract crypto for trading, finance, and retail
 
 ## What is your company going to make? Please describe your product and what does it do.
 
 **Davis:**
 Company is going to make an application. The application consists of a platform, accessible
 through a website/ or app. The platform has the UI of an investing, trading platform. The website
-interfaces with a blockchain, a crypto currency coin. The website allows users to access the
+interfaces with a blockchain, a crypto currency. The website allows users to access the
 coins via a hot wallet on the site.
 
-- The coin: The coin has a large nominal supply. The coin is fast, and cheaply saleable
-P2P. The utility of the coin comes with the use the user has for it to trade. The user does
+- The coin: The coin has a large nominal supply, such that it use as unit of account is relative to dollar denomination(not like Japanese Yen which is 150x 1 dollar). The coin is fast, and cheaply saleable
+P2P. The utility of the coin comes with the utility the user has for it to trade. The user does
 not at first trade the coins for dollars, or goods. Instead, the user uses the coin to
 speculate on the futures market of commodities, goods that are sold w/ prices.
     - The utility of the coin: the coin is the unit of account, and the speculation vehicle,
@@ -64,12 +50,7 @@ they previously could not.
 
 ## How long have each of you been working on this? How much of that has been full-time? Please explain.
 
-**Davis:** 1 months. 30-40 hours a week. (For both founders)
-
-<!-- In this case I don't think we should put 1 month because frankly we dont have 129-172 (4.3 weeks * 30-40 hours) 
-hrs of work to show for it. What they are looking for is how productive we are. If we say a month then we have to show the full time product of one person. -->
-
-**Christopher:** 1 week, part time (for both of us), but we are ramping up to work on it full time starting this week.
+1 week, part time (for both of us), but we are ramping up to work on it full time starting this week.
 
 ## What tech stack are you using, or planning to use, to build this product?
 
@@ -94,31 +75,32 @@ speculation/instrumentation + escape from dollar + hide from currency comp
 ## Who are your competitors? What do you understand about your business that they don't?
 
 **Davis:**
-Q1) The US government, better money(s)
+Q1) Perpetual swaps denominated in dollars, more-expensive futures trading, 
 Q2) People flock to freedom, efficiency over time, financial flexibility
 
 ## How do or will you make money? How much could you make?
 
 **Davis:**
-Q1) tag volume, subs, ads, non-fair start ;)
-Q2) Forex markets are in the trillions dollars w/ capped reasons for their existence
+Q1) tag volume, subscription tiers on website, site & app advertisements and sponsorships, founders start with initial sum of coins(5-10%)
+Q2) Forex markets are in the trillions of dollars daily volume and many trades endure broker fees, so to emulate revenue method isn't out of question. 
 
 ## If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
 
 **Davis:**
-Emerging market etfs —  a collection of growth based on present changing toward liberal policies // clearing of gov bureaucracy to improve revenue translation into profit(ability to re-coup investment fast-tracked)
+Emerging market etfs —  a collection of growth-based stocks, whose respective countries are leaning into liberal market policies, such as decreasing capital gains taxes. Market movements that improve revenue translation into net profit and capital return to investors(ability to re-coup investment fast-tracked)
 
 ETF addresses companies in emerging market based on criteria:
 - Can the company return profits to shareholders through the taxation system 
 - Is the company incentivized to return profits to shareholders 
-- Time view of necessary future financing
-- Political stability, past, present, future
+- Time view of necessary future financing(optimally companies that aren't diluting equity through reckless share issuance)
+- Political stability, past, present, future (in specific relation to taxation)
 
 Could be money managers composing of the money managers (exposure to other ETFS) - fund of funds 
 Vs. 
-Fund of individual 
-Fund of country individuals 
-Fund of specialization across countries 
+Fund of individual(companies across globe)
+Fund of country individuals(country specific index)
+Fund of specialization across countries(say lumber industries globally)
 
-Internal ETF — no changing to capital structure. Absolutely no raising of more shares, finite and large issuance. TLDR: would not inflate or mess with outstanding shares of ETF even if trading at premiums or discounts.
+Internal ETF — no changing to capital structure. Absolutely no use of authorized participants as market makers, hence no ETF share creation and redemption basket tactics. 
+TLDR: would not inflate or deflate outstanding shares of ETF even if trading at premiums or discounts.
 
