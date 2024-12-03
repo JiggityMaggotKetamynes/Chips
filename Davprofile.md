@@ -16,3 +16,5 @@ and reliably than a forthcoming miner could when they would have to deal with a 
 I'm a technical generalist who's main value comes from knowledge specialization. Knowledge specialization for operational efficiency, finance, and business development; solving financial, operational and sales problems and pursuing opportunities.
 As an entrepreneur I constantly try to anticipate, prepare for future conditions by thinking of products that would serve an unmet market need. Iterating through future and past products to provide value and be of service to the customers. 
 On technical grounds, there is nothing to mention, however I can point to the success of operating my business Tera Solutions this year. 
+
+<!-- I wonder if it would be better if you used your answer for question 2 on question 3. Im just thinking out loud -->
