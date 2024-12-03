@@ -27,8 +27,8 @@ through a website/ or app. The platform has the UI of an investing, trading plat
 interfaces with a blockchain, a crypto currency. The website allows users to access the
 coins via a hot wallet on the site.
 
-- The coin: The coin has a large nominal supply, such that it use as unit of account is relative to dollar denomination(not like Japanese Yen which is 150x 1 dollar). The coin is fast, and cheaply saleable
-P2P. The utility of the coin comes with the utility the user has for it to trade. The user does
+- The coin: The coin has a large nominal supply(similiar to dollar). The coin is fast, and cheaply saleable P2P.
+The utility of the coin is the ability to trade. The user does
 not at first trade the coins for dollars, or goods. Instead, the user uses the coin to
 speculate on the futures market of commodities, goods that are sold w/ prices.
     - The utility of the coin: the coin is the unit of account, and the speculation vehicle,
