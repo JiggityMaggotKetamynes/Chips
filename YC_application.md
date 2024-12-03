@@ -31,20 +31,23 @@ The utility of the coin is the ability to trade. The user does
 not at first trade the coins for dollars, or goods. Instead, the user uses the coin to
 speculate on the futures market of commodities, goods that are sold w/ prices.
     - The utility of the coin: the coin is the unit of account, and the speculation vehicle,
-for a perpetual futures contract. A perpetual futures contract of any two
-commodities, namely those that haven’t been paired previously, or prohibited to
-be paired.
-        - Perpetual swaps use a funding rate to pay out P&L based on relative price movmements between paired commodities(lumber,silver -- monero/oil). 
-We choose perpetual swpas because it is a future contract that is not exercisable, it doesn't require physical future transfer of goods, but allows for exposure to price action.
-It is like continuing to roll over an options contract indefintelyuntil you close the position.
-    - Users acquire coins through mining, airdrop(instant egalitarian issuance),
+for a perpetual futures contract. Users use existing reasons for speculation/ financial instrumentation in places
+they previously could not.
+        - 1 of our perpetual futures contract consists any two commodities, existing or previosuly prohibited to
+be paired such as (lumber, silver), (Monero, Oil)
+            - Perpetual swaps use a funding rate to pay out P&L based on relative price movmements between paired commodities(lumber,silver -- monero/oil). We choose perpetual swaps because it is a future contract that is not exercisable, it doesn't require physical future transfer of goods, but allows for exposure to price action. It is like continuing to roll over an options contract indefintelyuntil you close the position.
+
+- The coin functions to facilaite novel price discovery between two commodities by allowing the market to weigh them in terms of the other.
+
+- Issuance: Users acquire coins through mining, airdrop(instant egalitarian issuance),
 atomic swaps w/ other currencies, or purchasing it w/ dollars, other
 cyrptos
         -  Users can stake their coins that pay yields – driven by demand for
 leverage
-    - Users use existing reasons for speculation/ financial instrumentation in places
-they previously could not.
-    - Cold storage available via node or app interface(hot/cold)
+- With increasing coin volume, companies could seamlessly issue equity, in the coin, overcoming previous backlogs and barriers to access public markets and avoiding kyc with the Chips coin. 
+- Cold storage available via node or app interface(hot/cold)
+
+To sum up: We are essentially finding a way to introduce a product to the market, and monetize the volume. With perpetual swaps, we can have countless swaps to speculate on, driving volume from different channels, all the while facilitating novel price discovery. 
  
 ## How far along are you?
 
