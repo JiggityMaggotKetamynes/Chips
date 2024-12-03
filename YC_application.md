@@ -81,7 +81,7 @@ Q2) People flock to freedom, efficiency over time, financial flexibility
 ## How do or will you make money? How much could you make?
 
 **Davis:**
-Q1) tag volume, subscription tiers on website, site & app advertisements and sponsorships, founders start with initial sum of coins(5-10%)
+Q1) tag gross volume, subscription tiers on website, site & app advertisements + sponsorships, founders start with initial sum of coins(5-10%)
 Q2) Forex markets are in the trillions of dollars daily volume and many trades endure broker fees, so to emulate revenue method isn't out of question. 
 
 ## If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
