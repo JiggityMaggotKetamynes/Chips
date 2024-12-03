@@ -15,7 +15,7 @@ I will have edit when there was an obvious typo so something, but not when it ma
 
 <!-- The part about the non-founder will not help us. -->
 
-**Christopher:** Christopher is the technical founder who will right the code on and off blockchain parts of the company.
+**Christopher:** Christopher is the technical founder who will right the code on and off blockchain for the company.
 
 ## Are you looking for a co-founder?
 
@@ -65,6 +65,11 @@ they previously could not.
 ## How long have each of you been working on this? How much of that has been full-time? Please explain.
 
 **Davis:** 1 months. 30-40 hours a week. (For both founders)
+
+<!-- In this case I don't think we should put 1 month because frankly we dont have 129-172 (4.3 weeks * 30-40 hours) 
+hrs of work to show for it. What they are looking for is how productive we are. If we say a month then we have to show the full time product of one person. -->
+
+**Christopher:** 1 week, part time (for both of us), but we are ramping up to work on it full time starting this week.
 
 ## What tech stack are you using, or planning to use, to build this product?
 
