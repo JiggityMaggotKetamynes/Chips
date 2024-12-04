@@ -8,9 +8,8 @@ D: Hi, I'm Davis, and we are the founders of Chips
 C: Chips - 
 Smart-contract crypto for trading, finance, and retail that allows our users to execute ANY pair trade ANY two commodities, and gain yields through staking
 
-D: Yea, I spend a good amount time, every week, trading perpetuals swaps for Cypto and doing a lot of exploring on traditional FOREX markets. There's a lot of adjacent industries with sets of commodities, such as (oil, natural gas) (lumber, marble) that I was looking to directly trade. But I realized couldn't do so without executing two indepdent long and short positions denominated in dollars. 
+D: I'm a trader, specifcally perpetuals swaps for Cypto and do a lot of exploringon traditional FOREX markets. And what I've noticed is there's a lot of adjacent industries with sets of commodities, such as (oil, natural gas) (lumber, marble) that I was looking to directly trade to test correlations. But I realized couldn't do so without executing two indepdent long and short positions denominated in dollars. 
 
-(to *directly* trade to test for non-intrinsic linkage such as oil and natural gas, or lumber and marble. ) 
  
 C: To solve this: We propose a system to obviate the double trade, and allow true price discovey throgh our Chips coin, esssentially weighting one commodity in terms of the other. 
 
