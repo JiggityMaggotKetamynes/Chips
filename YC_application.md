@@ -23,7 +23,7 @@ Smart-contract crypto for trading, finance, and retail
 
 Company is going to make an application. The application consists of a platform, accessible
 through a website/ or app. The platform has the UI of an investing, trading platform. The website
-interfaces with a blockchain, a crypto currency. The website allows users to access the
+interfaces with a blockchain, and a smart-contract enabled crypto currency. The website allows users to access the
 coins via a hot wallet on the site.
 
 - The coin: The coin has a large nominal supply(similiar to dollar). The coin is fast, and cheaply saleable P2P.
@@ -32,18 +32,20 @@ not at first trade the coins for dollars, or goods. Instead, the user uses the c
 speculate on the futures market of commodities, goods that are sold w/ prices.
     - The utility of the coin: the coin is the unit of account, and the speculation vehicle,
 for a perpetual futures contract. Users use existing reasons for speculation/ financial instrumentation in places
-they previously could not.
+they previously could not betweeen commodity pairs.
         - 1 of our perpetual futures contract consists any two commodities, existing or previosuly prohibited to
-be paired such as (lumber, silver), (Monero, Oil)
-            - Perpetual swaps use a funding rate to pay out P&L based on relative price movmements between paired commodities(lumber,silver -- monero/oil). We choose perpetual swaps because it is a future contract that is not exercisable, it doesn't require physical future transfer of goods, but allows for exposure to price action. It is like continuing to roll over an options contract indefintelyuntil you close the position.
+be paired such as (oil, natural gas) (Monero, Gold)
+            - Perpetual swaps use a funding rate to pay out P&L based on relative price movmements between paired commodities. We choose perpetual swaps because it is a future contract that is not exercisable, it doesn't require physical future transfer of goods, but allows for exposure to price action. It is like continuing to roll over an options contract indefintely until you close the position.
 
-- The coin functions to facilaite novel price discovery between two commodities by allowing the market to weigh them in terms of the other.
-
+- The coin functions to facilaite novel price discovery between two commodities by allowing the market to weigh them in terms of the other. The coin allows for a direct path to speculate on perceived correlations
+in the market by faciliate direct position of one good in terms of the other.
+    - EX: If you want to be short Crude Oil, and long Natural gas, instead of selling Oil/USD, and buying NG/USD, with Chips you trade a perpetual swap on OIL/NG.  
+ 
 - Issuance: Users acquire coins through mining, airdrop(instant egalitarian issuance),
 atomic swaps w/ other currencies, or purchasing it w/ dollars, other
 cyrptos
-        -  Users can stake their coins that pay yields – driven by demand for
-leverage
+        -  Users can stake their coins that pay yields – driven by demand forleverage
+
 - With increasing coin volume, companies could seamlessly issue equity, in the coin, overcoming previous backlogs and barriers to access public markets and avoiding kyc with the Chips coin. 
 - Cold storage available via node or app interface(hot/cold)
 
