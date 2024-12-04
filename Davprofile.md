@@ -1,13 +1,13 @@
 ## Please tell us about a time you most successfully hacked some (non-computer) system to your advantage.
 
-My microeconomics class in high-school. There was an initial test on material followed by possible retake. I didn't study for the initial, used intuition, didn't perform well, reflected on all mistakes and aced the retake. 
-This process was limited by the professor claiming that I was gaming the system while in in my defense I was iterating through my best responses to find the Nash Equilibrium.
+My microeconomics class in high-school. There was an initial test on material followed by possible retake. I didn't study for the initial, didn't perform well, reflected on all mistakes and aced the retake. 
+This process was short-lived when the professor called me out for "gaming the system." Thinking of hacking, cued this direct quotation, and seems relevant. I adhered to his critique, swallowed my pride, and waved farewell to my time-saving hack. 
 
 ## Please tell us in one or two sentences about the most impressive thing other than this startup that you have built or achieved.
 
 My business Tera Solutions that I co-started earlier this year in Asúncion, Paraguay. 
-The value prop was agglomerating local services(shipping, logistics, maintenance, legal and property) bundling them up and fast-tracking the ability for miners interested in cheap, renewable energy to start their mine in Paraguay.
-There lacked a system that directly catered and provided a track to miners looking to ship their mines, and get them on site firing. 
+The value prop was agglomerating local services(shipping, logistics, maintenance, legal and property), bundling them up and fast-tracking the ability for BTC-Miners interested in cheap, renewable energy to start their facility in Paraguay.
+There lacked a system that directly catered and provided a track to miners looking to ship their ASIC machines, and get them on site firing. 
 The team parsed through circuitous legal procedures and procedural fluff, and focused on setting up the site, the LLC, the energy contract far faster 
 and reliably than a forthcoming miner could when they would have to deal with a cohort of disjoint processes and persons in a foreign country.
 
