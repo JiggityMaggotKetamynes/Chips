@@ -5,7 +5,7 @@ C: Hi, I'm Christopher
 
 D: Hi, I'm Davis, and we are the founders of Chips
 
-C: Chips is a Interoperable Layer 1 Blockchain. Users will utlize our Chips coin To pair trade in any two comodities. Users can also make yeild in a transpart way through staking options to fund leverage trading.
+C: Chips is a Interoperable Layer 1 Blockchain. Users will utlize our Chips coin To pair trade any two comodities. Users can also make yeild in a transpart way through staking  to fund leverage trading.
 
 D: 
 - experience
