@@ -15,7 +15,7 @@ D:
  
 C: Thats why we designed Chips. Chips allows users through our websited to directly pair-trade any commodites using perpetual swaps. This direct trading creates a novel means for the market to directly speculate on two goods. 
 
-We chose perpetual swaps because it allows traders exposure to price action between goods without the needeing physcial dilivery of the goods in question.
+We chose perpetual swaps because it allows traders exposure to price action between goods without needeing physcial dilivery of the goods in question.
 
 D: 
 - FOREX markets trade 6.6 Trillion in volume daily/ w current protocols and inefficiences.
