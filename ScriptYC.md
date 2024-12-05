@@ -1,33 +1,32 @@
 ## Script 1 minute (CD) intro
 
 
-C: Hi, I'm Chris
+C: Hi, I'm Christopher
 
 D: Hi, I'm Davis, and we are the founders of Chips
 
-C: Chips - 
-Smart-contract crypto for trading, finance, and retail that allows our users to execute ANY pair trade ANY two commodities, and gain yields through staking
+C: Chips is a Interoperable Layer 1 Blockchain. Users will utlise our Coin Chips To pair trade in any two comodities. Users can also make yeild in a transpart way through staking options to fund leverage trading.
 
-D: I'm a trader, specifcally perpetuals swaps for Cypto and do a lot of exploringon traditional FOREX markets. And what I've noticed is there's a lot of adjacent industries with sets of commodities, such as (oil, natural gas) (lumber, marble) that I was looking to directly trade to test correlations. But I realized couldn't do so without executing two indepdent long and short positions denominated in dollars. 
-
+D: 
+- experience 
+- Price asymetry
+- comodity pair trade ineffeacny
+- value of perpetual swaps
  
-C: To solve this: We propose a system to obviate the double trade, and allow true price discovey throgh our Chips coin, esssentially weighting one commodity in terms of the other. 
+C: Thats why we designed Chips. Chips allows users through our websited to directly pair-trade any commodites using perpetual swaps. This direct trading creates a novel means for the market to directly speculate on two goods. 
 
-D: The volume of forex is around 6.6 trillion with current protocols, and that's right, I've never been able to speculate on how I think that gold will appreciate over Monero, the crpytocurrency, which I want to do bad!
+We chose perpetual swaps because it allows traders exposer to price action between goods with out the need to take physcial dilivery of the goods in question.
 
-C: Chips replaces the dollar in the form of the unit of account, and the
-denomination of the options spread to enable boundless price-discovery throgh seamless commodity pairing. 
+D: 
+- 6.6 Trillion DAILY!
 
-D: No way! 
-
-C: And We've designed a block-chain protocol that allows user flexilibity to acces the service through their own node, or an application built on L1 
-
-D: Sign me up!
-
-Thanks
+C: Using our native Chip coin as the unit of account and demomations of options spread, creating a market patheway for better price discovery throgh seamless commodity pairing. 
 
 
-// notes
+
+
+
+##  notes
 // ( we looked at the FOREX markets, we realized that in order to trade futures on two commodities, you would need be short commodity A/USD and long commodity B/US
 currecy intrisncially linked -- 
 oil and natural gas -- not intrinsically 
