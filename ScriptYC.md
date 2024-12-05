@@ -5,22 +5,22 @@ C: Hi, I'm Christopher
 
 D: Hi, I'm Davis, and we are the founders of Chips
 
-C: Chips is a Interoperable Layer 1 Blockchain. Users will utlise our Coin Chips To pair trade in any two comodities. Users can also make yeild in a transpart way through staking options to fund leverage trading.
+C: Chips is a Interoperable Layer 1 Blockchain. Users will utlize our Coin Chips To pair trade in any two comodities. Users can also make yeild in a transpart way through staking options to fund leverage trading.
 
 D: 
-- experience 
-- Price asymetry
+- experience
 - comodity pair trade ineffeacny
+- Price asymetry 
 - value of perpetual swaps
  
 C: Thats why we designed Chips. Chips allows users through our websited to directly pair-trade any commodites using perpetual swaps. This direct trading creates a novel means for the market to directly speculate on two goods. 
 
-We chose perpetual swaps because it allows traders exposer to price action between goods with out the need to take physcial dilivery of the goods in question.
+We chose perpetual swaps because it allows traders exposure to price action between goods without the need to take physcial dilivery of the goods in question.
 
 D: 
-- 6.6 Trillion DAILY!
+- FOREX markets trade 6.6 Trillion in volume daily/ w current protocols and inefficiences.
 
-C: Using our native Chip coin as the unit of account and demomations of options spread, creating a market patheway for better price discovery throgh seamless commodity pairing. 
+C: Using our native Chip coin as the unit of account and denomination of options spread, creating a market patheway for better price discovery throgh seamless commodity pairing. 
 
 
 
