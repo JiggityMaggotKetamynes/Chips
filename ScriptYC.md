@@ -24,7 +24,7 @@ We chose perpetual swaps because it allows traders exposure to price action betw
 D: 
 - FOREX markets trade 6.6 Trillion in volume daily/ w current protocols and inefficiences.
 
-C: Using our native Chip coin as the unit of account and denomination of options spread, creating a market patheway for better price discovery throgh seamless commodity pairing. 
+C: Using our native Chip coin as the unit of account and to demomotate our option's spread, this creats a market patheway for better price discovery throgh seamless commodity pairing. 
 
 
 
