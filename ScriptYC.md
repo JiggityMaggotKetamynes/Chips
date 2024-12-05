@@ -13,7 +13,7 @@ D:
 - Price asymetry 
 - value of perpetual swaps
  
-C: Thats why we designed Chips. Chips allows users through our websited to directly pair-trade any commodites using perpetual swaps. This direct trading creates a novel means for the market to directly speculate on two goods. 
+C: Thats why we designed Chips. Chips allows users through our website to directly pair-trade any 2 commodites using perpetual swaps. This direct trading creates a novel means for the market to directly speculate on two goods. 
 
 We chose perpetual swaps because it allows traders exposure to price action between goods without needeing physcial dilivery of the goods in question.
 
