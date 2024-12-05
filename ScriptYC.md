@@ -17,6 +17,10 @@ C: Thats why we designed Chips. Chips allows users through our website to direct
 
 We chose perpetual swaps because it allows traders exposure to price action between goods without needeing physcial dilivery of the goods in question.
 
+- Interoperable Layer 1 Blockchain
+- Chips enables Any Two comodity Pair-trade
+- Yeild through staking options to fund leverage trading
+
 D: 
 - FOREX markets trade 6.6 Trillion in volume daily/ w current protocols and inefficiences.
 
