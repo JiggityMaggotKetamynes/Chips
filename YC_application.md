@@ -23,9 +23,7 @@ Interoperable Layer 1 blockchain for trading
 
 ## What is your company going to make? Please describe your product and what does it do.
 
-Company is going to make an application. The application consists of a platform, accessible
-through a website/ or app. The platform has the UI of an investing, trading platform. The website
-interfaces with a blockchain, and a smart-contract enabled crypto currency. The website allows users to access the
+The website interfaces with a blockchain, and a smart-contract enabled crypto currency. The website allows users to access the
 coins via a hot wallet on the site.
 
 - The coin: The coin has a large nominal supply(similiar to dollar). The coin is fast, and cheaply saleable P2P.
