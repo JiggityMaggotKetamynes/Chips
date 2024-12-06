@@ -80,7 +80,7 @@ Q3) In talking with FOREX and Crpyto traders regurarly, they are always actively
 
 Q1) Our competitors would be: interactive brokers if you were looking to trade perpetual swaps on commodities, which offers singular commodity price speculation in the form of a perpetual futures contract. OX.FUN if you were looking to trade perpetual swaps solely on crpyto currencies. Charles Schwab Futures, Forex LLC if you were to looking to trade commodity futures. <!-- You should name the 3 major crypto trading platforms by name and the explain how our product is diffrent then theres and why it is better -->
 
-Q2) Crpyto currencies without inherent utility are worthless. The more traders and holders of a coin that value, interact and use it's capabilites, the more this becomes the underlying charactheristic for success. 
+Q2) Crypto currencies without inherent utility are worthless. The more traders and holders of a coin that value, interact and use it's capabilites, the more this becomes the underlying charactheristic for success. 
 
 ## How do or will you make money? How much could you make?
 
