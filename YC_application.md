@@ -69,11 +69,11 @@ Christopher applied November 12th under company name: Von, description "Use Mone
 
 ## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
-Q1) I pay close attention to the inefficiences of currents futures transactions. I haved wanted to directly speculate on the price action of two commodities, to more precisely test for non-inherent links(correlations). Have wanted to more directly capture upside and downside in a single transaction. I think that perpetual swaps have been under-utilized in traditional comoddity futures markets, and are a unqiue way to gain price exposure to goods w/o needing exercise an options contract(that includes title transfer and phyiscal movmement of goods). I believe that Chips will provide more efficient transactions, on larger breadth of goods to an increasing volume of traders with a public, decentralized ledger.  
+Q1) I pay close attention to the inefficiences of futures transactions. I haved wanted to directly speculate on the price action of two commodities, to more precisely test for non-inherent links(correlations). Have wanted to more directly capture upside and downside in a single transaction. I think that perpetual swaps have been under-utilized in traditional comoddity futures markets, and are a unqiue way to gain price exposure to goods w/o needing to exercise an options contract(that includes title transfer and phyiscal movmement of goods). I believe that Chips will provide more efficient transactions, on larger breadth of goods to an increasing volume of traders with a public, decentralized ledger.  
 
 Q2) Team consists of technical and soft skills in financial markets, currencies and software/crypto development.  
 
-Q3) My sentiment is that traders are motivated by their curiosity to buy a new IPO, ICO, test a coins utility and increase their economic and financial capabilities. If traders can fulfill trades and speculation with increased flexibility, write their own options contracts on any commodity pair of their choosing, they will find utility in the service. 
+Q3) My sentiment is that traders are motivated by their curiosity to buy a new IPO, ICO; to test a coins utility and increase their economic and financial capabilities. If traders can fulfill trades and speculation with increased flexibility, write their own options contracts on any commodity pair of their choosing, they will find utility in that service. 
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
