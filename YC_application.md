@@ -9,7 +9,7 @@ We met 5 months ago at a the Mises Institute for Austrian Economics, summer prog
 
 ## Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.
 
-Christopher is the technical founder who will right the code on and off blockchain for the company.
+Christopher is the technical founder who will write the code on and off blockchain for the company.
 
 ## Are you looking for a co-founder?
 
