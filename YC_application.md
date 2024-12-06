@@ -78,7 +78,7 @@ Q3) My sentiment is that traders are motivated by their curiosity to buy a new I
 ## Who are your competitors? What do you understand about your business that they don't?
 
 Q1) Our competitors are existing brokerages, trading platforms that plan to expand their tradable markets. 
-Q2) Crpyto currencies without inherent utility are worthless. The more traders and holders of a coin value it's capabilites, this becomes the underlying charactheristic for success. 
+Q2) Crpyto currencies without inherent utility are worthless. The more traders and holders of a coin that value, interact and usse it's capabilites, this becomes the underlying charactheristic for success. 
 
 ## How do or will you make money? How much could you make?
 
