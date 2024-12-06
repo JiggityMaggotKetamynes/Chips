@@ -17,7 +17,7 @@ We are not looking for co-founders, but we are open if we feel someone could sub
 
 ## Describe what your company does in 50 characters or less.
 
-Smart-contract crypto for trading, finance, and retail
+Interoperable Layer 1 blockchain for trading
 
 ## What is your company going to make? Please describe your product and what does it do.
 
@@ -32,13 +32,13 @@ not at first trade the coins for dollars, or goods. Instead, the user uses the c
 speculate on the futures market of commodities, goods that are sold w/ prices.
     - The utility of the coin: the coin is the unit of account, and the speculation vehicle,
 for a perpetual futures contract. Users use existing reasons for speculation/ financial instrumentation in places
-they previously could not betweeen commodity pairs.
-        - 1 of our perpetual futures contract consists any two commodities, existing or previosuly prohibited to
+they previously could not betweeen commodity pairs(hedging).
+        - 1 of our perpetual futures contract consists of any two commodities, existing or previosuly prohibited to
 be paired such as (oil, natural gas) (Monero, Gold)
             - Perpetual swaps use a funding rate to pay out P&L based on relative price movmements between paired commodities. We choose perpetual swaps because it is a future contract that is not exercisable, it doesn't require physical future transfer of goods, but allows for exposure to price action. It is like continuing to roll over an options contract indefintely until you close the position.
 
-- The coin functions to facilaite novel price discovery between two commodities by allowing the market to weigh them in terms of the other. The coin allows for a direct path to speculate on perceived correlations
-in the market by faciliate direct position of one good in terms of the other.
+- The coin functions to facilaite novel price discovery between two commodities by allowing the market to exactly weigh them in terms of the other. The coin allows for a direct path to speculate on perceived correlations
+in the market by faciliating direct position of one good in terms of the other.
     - EX: If you want to be short Crude Oil, and long Natural gas, instead of selling Oil/USD, and buying NG/USD, with Chips you trade a perpetual swap on OIL/NG.  
  
 - Issuance: Users acquire coins through mining, airdrop(instant egalitarian issuance),
@@ -46,7 +46,7 @@ atomic swaps w/ other currencies, or purchasing it w/ dollars, other
 cyrptos
         -  Users can stake their coins that pay yields – driven by demand forleverage
 
-- With increasing coin volume, companies could seamlessly issue equity, in the coin, overcoming previous backlogs and barriers to access public markets and avoiding kyc with the Chips coin. 
+- Equity - with increasing coin volume, companies could seamlessly issue equity, in the coin, overcoming previous backlogs and barriers to access public markets and avoiding kyc with the Chips coin. 
 - Cold storage available via node or app interface(hot/cold)
 
 To sum up: We are essentially finding a way to introduce a product to the market, and monetize the volume. With perpetual swaps, we can have countless swaps to speculate on, driving volume from different channels, all the while facilitating novel price discovery. 
@@ -73,7 +73,7 @@ Q1) To capitalize on inefficiencies of dollar
 Q2) Team consists of technical and soft skills in financial markets, currencies and
 software/crypto development
 Q3) Null hypothesis: People don’t care to expand quality & restrictions of existing financial
-speculation/instrumentation + escape from dollar + hide from currency comp
+speculation/instrumentation + escape from dollar detioration + are opposed to using different currencies. 
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
@@ -82,7 +82,7 @@ Q2) People flock to freedom, efficiency over time, financial flexibility
 
 ## How do or will you make money? How much could you make?
 
-Q1) tag gross volume, subscription tiers on website, site & app advertisements + sponsorships, founders start with initial sum of coins(5-10%)
+Q1) tag gross volume, subscription tiers on website, site & app advertisements + sponsorships, equity partners start with initial sum of coins(5-10%)
 Q2) Forex markets are in the trillions of dollars daily volume and many trades endure broker fees, so to emulate revenue method isn't out of question. 
 
 ## If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
