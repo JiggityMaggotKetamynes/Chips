@@ -74,7 +74,7 @@ Q1) I trade a lot of futures, so I'm tuned in to the inefficiency/shortcomings o
 
 Q2) Team consists of technical and soft skills in financial markets, currencies and software/crypto development. I have personal experience building a BTC and script mining company in South America. I am also a futures, crypto, and comodities trader. 
 
-Q3) In talking with FOREX and Crpyto traders regurarly, the sentiment I've gathered is that traders prefer more options to not. This is why we designed chips to allow user to interact directly with the blockchain contracts, and to not be limited in their trade pairs.
+Q3) In talking with FOREX and Crpyto traders regurarly, they are always actively looking for new trading possibilities where they can employ their trading edge. This is why we designed chips to allow users to interact directly with the blockchain contracts, and to not be limited in their trade pairs.
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
