@@ -107,6 +107,8 @@ If the author was correct on certain prediction then they get a portion of the b
 
 - A monero-gold derivative platform that can be used to produce market based stable coins.
 
+
+
 - Emerging market etfs —  a collection of growth-based stocks, whose respective countries are leaning into liberal market policies, such as decreasing capital gains taxes. Market movements that improve revenue translation into net profit and capital return to investors(ability to re-coup investment fast-tracked)
 
 ETF addresses companies in emerging market based on criteria:
