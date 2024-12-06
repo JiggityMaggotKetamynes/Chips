@@ -69,7 +69,7 @@ Christopher applied November 12th under company name: Von, description "Use Mone
 
 ## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
-Q1) I pay close attention to the inefficiences of futures transactions. I haved wanted to directly speculate on the price action of two commodities, to more precisely test for non-inherent links(correlations). Have wanted to more directly capture upside and downside in a single transaction. I think that perpetual swaps have been under-utilized in traditional comoddity futures markets, and are a unqiue way to gain price exposure to goods w/o needing to exercise an options contract(that includes title transfer and phyiscal movmement of goods). I believe that Chips will provide more efficient transactions, on larger breadth of goods to an increasing volume of traders with a public, decentralized ledger.  
+Q1) I pay close attention to the inefficiences of futures transactions. I haved wanted to directly speculate on the price action of two commodities, to more precisely test for non-inherent links(correlations). Have wanted to more directly capture upside and downside in a single transaction. I think that perpetual swaps have been under-utilized in traditional comoddity futures markets, and are a unqiue way to gain price exposure to goods w/o needing to exercise an options contract(that includes title transfer and phyiscal movmement of goods). I believe that Chips will provide more efficient transactions, on a larger breadth of goods to an increasing volume of traders with a public, decentralized ledger.  
 
 Q2) Team consists of technical and soft skills in financial markets, currencies and software/crypto development.  
 
@@ -105,7 +105,6 @@ ETF addresses companies in emerging market based on criteria:
 - Fund of specialization across countries(say lumber industries globally)
 
 Internal ETF — no changing to capital structure. Absolutely no use of authorized participants as market makers, hence no ETF share creation and redemption basket tactics. 
-TLDR: would not inflate or deflate outstanding shares of ETF even if trading at premiums or discounts.
 
 
 
