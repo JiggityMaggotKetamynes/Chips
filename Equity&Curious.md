@@ -1,4 +1,4 @@
-## If you have not formed the company yet, describe the planned equity ownership breakdown among the founders, employees and any other proposed stockholders. 
+
 
 ## If there are multiple founders, be sure to give the proposed equity ownership of each founder and founder title (e.g. CEO). (This question is as much for you as us.)
 
@@ -19,10 +19,11 @@ Yes.
 
 ## What convinced you to apply to Y Combinator? Did someone encourage you to apply? Have you been to any YC events?
 
-I started a business that I took as far as I could before the business opertunity went way. I am extremtly         intrested in trying again, and YC seems like it is the best envirment to take what I have already leard from hands on experience and build on it.
+I started a business that I took as far as I could before the business opporuntity dried up. I am extremely intrested in trying again, and YC seems like it is the best environment to take what I have already learned from hands on experience and build on it, and collaborate with my good friend Chris. 
 
-YC was sugested by a firend at MIT who knew several YC founders, he thought that our project would apeal to YC.
+YC was sugested by a friend at MIT who knew several YC founders, he thought that our project would apeal to YC.
 
 How did you hear about Y Combinator?
+I watched these videos as well, last year. 
 https://www.youtube.com/watch?v=sYMqVwsewSg
 https://www.youtube.com/watch?v=uEl2KUZ3JWA&t=1s
