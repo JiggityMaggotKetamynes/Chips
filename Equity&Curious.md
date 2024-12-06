@@ -19,7 +19,7 @@ Yes.
 
 ## What convinced you to apply to Y Combinator? Did someone encourage you to apply? Have you been to any YC events?
 
-I started a business that I took as far as I could before the business opporuntity dried up. I am extremely intrested in trying again, and YC seems like it is the best environment to take what I have already learned from hands on experience and build on it, and collaborate with my good friend Chris. 
+I started a business that I took as far as I could before the business opporuntity went away. I am extremely intrested in trying again, and YC seems like it is the best environment to take what I have already learned from hands on experience and build on it, and collaborate with my good friend Chris. 
 
 YC was sugested by a friend at MIT who knew several YC founders, he thought that our project would apeal to YC.
 
