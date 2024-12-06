@@ -70,11 +70,11 @@ Christopher applied on November 12th with "Von", a Monero-gold derivative platfo
 ## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
 
-Q1) I pay close attention to the inefficiences of futures transactions. I haved wanted to directly speculate on the price action of two commodities, to more precisely test for non-inherent links(correlations). I have wanted to more directly capture upside and downside in a single transaction. I think that perpetual swaps have been under-utilized in traditional comoddity futures markets, and are a unqiue way to gain price exposure to goods w/o needing to exercise an options contract(that includes title transfer and phyiscal movmement of goods). I believe that Chips will provide more efficient transactions, on a larger breadth   of goods to an increasing volume of traders with a public, decentralized ledger.
+Q1) I trade a lot of futures, so I'm tuned in to the inefficiency/shortcomings of current services. I haved wanted to directly speculate on the price action of two commodities, to more precisely test for non-inherent links(correlations). I have wanted to more directly capture upside and downside in a single transaction. I think that perpetual swaps have been under-utilized in traditional comoddity futures markets, and are a unqiue way to gain price exposure to goods w/o needing to exercise an options contract(that includes title transfer and phyiscal movmement of goods). I believe that Chips will provide more efficient transactions, on a larger breadth of goods to an increasing volume of satisfied traders with a public, decentralized ledger.
 
 Q2) Team consists of technical and soft skills in financial markets, currencies and software/crypto development. I have personal experience building a BTC and script mining company in South America. I am also a futures, crypto, and comodities trader. 
 
-Q3) My sentiment is that traders are motivated by their curiosity to buy a new IPO, ICO; to test a coins utility and increase their economic and financial capabilities. If traders can fulfill trades and speculation with increased flexibility, write their own options contracts on any commodity pair of their choosing, they will find utility in that service.
+Q3) In talking with FOREX and Crpyto traders regurarly, the sentiment I've gathered is that traders prefer more options to not. This is why we designed chips to allow user to interact directly with the blockchain contracts, and to not be limited in their trade pairs.
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
