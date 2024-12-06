@@ -81,14 +81,7 @@ Q3) My sentiment is that traders are motivated by their curiosity to buy a new I
 ## Who are your competitors? What do you understand about your business that they don't?
 
 Q1) Our competitors would be: interactive brokers if you were looking to trade perpetual swaps on commodities, which offers singular commodity price speculation in the form of a perpetual futures contract. OX.FUN if you were looking to trade perpetual swaps solely on crpyto currencies. Charles Schwab Futures, Forex LLC if you were to looking to trade commodity futures. <!-- You should name the 3 major crypto trading platforms by name and the explain how our product is diffrent then theres and why it is better -->
-
-Reguarding out in house crypto coin 'Chips'. The biggest compeditors to us would be Bitcoin and a stable coin like Tether.
-
-Bitcoin and Ethereum dominate the market but face inherent stability issues. Bitcoin, largely held by speculators, is difficult to use as a currency due to its volatile price. If BTC's value were to stabilize, speculative holders would likely sell off, destabilizing its price further. Ethereum has similar issues, limiting its potential as a reliable currency.
-
-Stablecoins are backed by assets, often government bonds, and promise to maintain a stable value. However, many of these bonds are risky, and the asset pool is frequently insufficient, making stablecoins vulnerable to bank runs and potential collapse. Moreover, issuers can blacklist coins effectively pocketing the difference creating a conflict of interest.
-
-The value of Chips will come through price discovery through trading the all of the diffrent comodities avalible on our platfrom and through comertial transaction we set up connected to our cite like retail and banking. It will start out in high demand becuase it will be the way you pay transaction and gas fees on our network.
+Q2) Crpyto currencies without inherent utility are worthless. The more traders and holders of a coin that value, interact and usse it's capabilites, this becomes the underlying charactheristic for success. 
 
 ## How do or will you make money? How much could you make?
 
