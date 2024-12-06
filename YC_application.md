@@ -95,9 +95,9 @@ The value of Chips will come through price discovery through trading the all of 
 
 ## How do or will you make money? How much could you make?
 
-Q1) trading fees, subscription tiers on website for more extensive packages(advanced trading), site & app advertisements + sponsorships, equity partners start with initial sum of coins(5-10%). If the coin attains it's goal of being efficiently saleable aside from trading on the platform, and becomes a tenable medium of exchange, this in turn will increase demand for the coin and increase the value for existing holders. Holders of the coin are also free to stake to generate small yields, which are the costs for leverage traders to borrow money.
+Q1) Trading fees, subscription tiers for advanced trading tools, site & app advertisements + sponsorships, equity partners starting with initial sum of coins(5-10%). If the coin attains it's goal of being efficiently saleable aside from trading on the platform, and becomes a tenable medium of exchange, this in turn will increase demand for the coin and increase the value for existing holders. Holders of the coin are also free to stake to generate small yields, which are the costs for leverage traders to borrow money.
 
-Q2) Forex markets are in the trillions of dollars daily volume and many trades endure broker fees, so to emulate revenue method isn't out of question.
+Q2) Forex markets are in the trillions of dollars daily volume and many trades endure broker fees, so to emulate revenue method isn't out of question. 
 
 ## If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
 
