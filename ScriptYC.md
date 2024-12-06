@@ -7,7 +7,7 @@ D: Hi, I'm Davis, and we are the founders of Chips
 
 C: Chips is a Interoperable Layer 1 Blockchain. Users will utlize our Chips coin To pair trade any two comodities. Users can also make yeild in a transpart way through staking  to fund leverage trading.
 
-D: I mostly trade futures. Forex, crypto and commodities. Take commodities, if you want to be long, and short two commodities, you need to make two seperate trades denominated in dollars. This a form of indirect trading that does not allow for true speculation between commodities, that you may be testing for correlation say (lumber, marble) And points to an unfilled, and desired market trade
+D: I mostly trade futures. Forex, crypto and commodities. Take commodities, if you want to be long, and short two commodities, you need to make two seperate trades denominated in dollars. This a form of indirect trading that does not allow for true speculation between commodities, their exact relative value and correlation say (lumber, marble). Markets prefer accuracy, this ineffieicny points to unfilled, market demand for this trading ability
 
 
 - experience
