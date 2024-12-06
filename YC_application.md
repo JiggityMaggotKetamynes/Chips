@@ -91,7 +91,7 @@ Q2) Forex markets are in the trillions of dollars daily volume and many trades e
 
 If the author was correct on certain prediction then they get a portion of the bonds that increased with there demonstrated accuracy.
 
-Emerging market etfs —  a collection of growth-based stocks, whose respective countries are leaning into liberal market policies, such as decreasing capital gains taxes. Market movements that improve revenue translation into net profit and capital return to investors(ability to re-coup investment fast-tracked)
+- Emerging market etfs —  a collection of growth-based stocks, whose respective countries are leaning into liberal market policies, such as decreasing capital gains taxes. Market movements that improve revenue translation into net profit and capital return to investors(ability to re-coup investment fast-tracked)
 
 ETF addresses companies in emerging market based on criteria:
 - Can the company return profits to shareholders through the taxation system 
