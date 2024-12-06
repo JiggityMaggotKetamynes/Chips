@@ -67,7 +67,7 @@ HTMX, Templ, Go. We are currently testing with a vanilla fork of Ethereum, but w
 
 ## If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
 
-Christopher applied on November 12th with "Von", a Monero-gold derivative platform. At YC's sujustion he went looking for a partner and we decided to work together on this project since I had experience in trading.
+Christopher applied on November 12th with "Von", a Monero-gold derivative platform. At YC's suggestion he went looking for a partner and we decided to work together on this project since I had experience in trading.
 
 ## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
