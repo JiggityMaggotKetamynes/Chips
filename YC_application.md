@@ -87,6 +87,10 @@ Q2) Forex markets are in the trillions of dollars daily volume and many trades e
 
 ## If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
 
+- Truth Bond: a platform that uses AI and/or user submitted summaries of book, videos, articals, etc. to with concrete predictions, eg. the M5 will be 30% faster than AMD's new cpu, Iran has 40 hypersonic missiles that it will use of Israel attacks Iraq. A betting market place will be used to create a betting marketplace that whoes data can be used by decison makers and a custom AI.
+
+If the author was correct on certain prediction then they get a portion of the bonds that increased with there demonstrated accuracy.
+
 Emerging market etfs —  a collection of growth-based stocks, whose respective countries are leaning into liberal market policies, such as decreasing capital gains taxes. Market movements that improve revenue translation into net profit and capital return to investors(ability to re-coup investment fast-tracked)
 
 ETF addresses companies in emerging market based on criteria:
