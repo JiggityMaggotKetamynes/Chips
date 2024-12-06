@@ -69,20 +69,22 @@ Christopher applied November 12th under company name: Von, description "Use Mone
 
 ## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
-Q1) To capitalize on inefficiencies of dollar
+Q1) In my experience as a trader, I haved wanted to directly speculate on the price action of two commodities, to account for and test linkages, such as an appreciation in one good, translating to depreciation in the other and being able both upside and downside in one trade. *
+
 Q2) Team consists of technical and soft skills in financial markets, currencies and
-software/crypto development
-Q3) Null hypothesis: People don’t care to expand quality & restrictions of existing financial
-speculation/instrumentation + escape from dollar detioration + are opposed to using different currencies. 
+software/crypto development. My expertise in the trading are comes from attention to the inefficiences of currents futures transaction. I also took note, with the advent of many crypto trading platfroms of the 
+utility of perpetual swaps as a frictionless method to allow exposure to price movement of goods without physical transfer(option exercsise). Combining the shortcoming, perpetual swaps, the decentralization and public ledger provided by the blockchain, we arrived at Chips. 
+
+Q3) My sentiment is that traders are motivated by their curiosity to buy a new IPO, ICO, test a coins utility and increase their economic and financial capabilities. If traders can fulfill trades and speculation with increased flexibility, write their own options contracts on any commodity pair of their choosing, they will find utility in the service. 
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
-Q1) Perpetual swaps denominated in dollars, more-expensive futures trading, 
-Q2) People flock to freedom, efficiency over time, financial flexibility
+Q1) Our competitors are existing brokerages, trading platforms that plan to expand their tradable markets. 
+Q2) Crpyto currencies without inherent utility are worthless. The more traders and holders of a coin value it's capabilites, this becomes the underlying charactheristic for success. 
 
 ## How do or will you make money? How much could you make?
 
-Q1) tag gross volume, subscription tiers on website, site & app advertisements + sponsorships, equity partners start with initial sum of coins(5-10%)
+Q1) trading fees, subscription tiers on website for more extensive packages(advanced trading), site & app advertisements + sponsorships, equity partners start with initial sum of coins(5-10%). If the coin attains it's goal of being efficiently saleable aside from trading on the platform, and becomes a tenable medium of exchange, this in turn will increase demand for the coin and increase the value for existing holders. Holders of the coin are also free to stake to generate small yields, which are the costs for leverage traders to borrow money. 
 Q2) Forex markets are in the trillions of dollars daily volume and many trades endure broker fees, so to emulate revenue method isn't out of question. 
 
 ## If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
@@ -105,4 +107,6 @@ ETF addresses companies in emerging market based on criteria:
 
 Internal ETF — no changing to capital structure. Absolutely no use of authorized participants as market makers, hence no ETF share creation and redemption basket tactics. 
 TLDR: would not inflate or deflate outstanding shares of ETF even if trading at premiums or discounts.
+
+
 
