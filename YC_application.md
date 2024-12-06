@@ -69,11 +69,9 @@ Christopher applied November 12th under company name: Von, description "Use Mone
 
 ## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
-Q1) In my experience as a trader, I haved wanted to directly speculate on the price action of two commodities, to account for and test linkages, such as an appreciation in one good, translating to depreciation in the other and being able both upside and downside in one trade. *
+Q1) I pay close attention to the inefficiences of currents futures transactions. I haved wanted to directly speculate on the price action of two commodities, to more precisely test for non-inherent links(correlations). Have wanted to more directly capture upside and downside in a single transaction. I think that perpetual swaps have been under-utilized in traditional comoddity futures markets, and are a unqiue way to gain price exposure to goods w/o needing exercise an options contract(that includes title transfer and phyiscal movmement of goods). I believe that Chips will provide more efficient transactions, on larger breadth of goods to an increasing volume of traders with a public, decentralized ledger.  
 
-Q2) Team consists of technical and soft skills in financial markets, currencies and
-software/crypto development. My expertise in the trading are comes from attention to the inefficiences of currents futures transaction. I also took note, with the advent of many crypto trading platfroms of the 
-utility of perpetual swaps as a frictionless method to allow exposure to price movement of goods without physical transfer(option exercsise). Combining the shortcoming, perpetual swaps, the decentralization and public ledger provided by the blockchain, we arrived at Chips. 
+Q2) Team consists of technical and soft skills in financial markets, currencies and software/crypto development.  
 
 Q3) My sentiment is that traders are motivated by their curiosity to buy a new IPO, ICO, test a coins utility and increase their economic and financial capabilities. If traders can fulfill trades and speculation with increased flexibility, write their own options contracts on any commodity pair of their choosing, they will find utility in the service. 
 
