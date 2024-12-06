@@ -11,8 +11,6 @@ We met 5 months ago at a the Mises Institute for Austrian Economics, summer prog
 
 Christopher is the technical founder who will right the code on and off blockchain for the company.
 
-Christopher is the technical founder who will right the code on and off blockchain for the company.
-
 ## Are you looking for a co-founder?
 
 We are not looking for co-founders, but we are open if we feel someone could substantially add to our team.
