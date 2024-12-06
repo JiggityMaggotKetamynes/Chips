@@ -83,7 +83,7 @@ Q3) My sentiment is that traders are motivated by their curiosity to buy a new I
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
-Q1) Our competitors are existing brokerages, trading platforms that plan to expand their tradable markets. <!-- You should name the 3 major crypto trading platforms by name and the explain how our product is diffrent then theres and why it is better -->
+Q1) Our competitors would be: interactive brokers if you were looking to trade perpetual swaps on commodities, which offers singular commodity price speculation in the form of a perpetual futures contract. OX.FUN if you were looking to trade perpetual swaps solely on crpyto currencies. Charles Schwab Futures, Forex LLC if you were to looking to trade commodity futures. <!-- You should name the 3 major crypto trading platforms by name and the explain how our product is diffrent then theres and why it is better -->
 
 Reguarding out in house crypto coin 'Chips'. The biggest compeditors to us would be Bitcoin and a stable coin like Tether.
 
